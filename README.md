@@ -1,4 +1,4 @@
-### Hello there, my name is Moustafa Mahmoud 👋
+### Hello there, my name is Ahmed Bassuny 👋
 I'm a student at the faculty of Computers & Artificial intelligence - Banha university, i'm currently really excited about learning new things in Machine learning, Math and algorithms 
 
 - 🔭 I’m currently working on improving my skills in Machine learning
